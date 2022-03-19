@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+*.local
+/dist
+/coverage
+/lib
+logs
+*.log
+
+
